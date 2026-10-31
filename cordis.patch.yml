@@ -1,0 +1,6 @@
+- insert:
+    - id: dsh-image-sovereign
+      name: 'dsh-image-sovereign'
+      config:
+        enabled: true
+        tool: true
